@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gauravsinh Bhati Resume</title>
+  <title>Gaurav's Resume</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -187,8 +187,8 @@
       <p>Phone: <a href="tel:+917874960769">+91-7874960769</a></p>
       <p>Address: Bhati Vas, Mejarpura, Vadgam, Banaskantha, Gujarat, India - 385421</p>
       <div class="social-links">
-        <a href="https://www.linkedin.com/in/gauravsinh-bhati" target="_blank">LinkedIn</a>
-        <a href="https://twitter.com/" target="_blank">Twitter</a>
+        <a href="https://www.linkedin.com/in/gauravsinh-bhati-65a740142?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a>
+        <a href="https://x.com/BhatiGauravsinh?s=09" target="_blank">Twitter</a>
       </div>
       <a href="resume.pdf" class="download-btn" download>📄 Download Resume</a>
     </section>
